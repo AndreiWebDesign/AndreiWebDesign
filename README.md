@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+</div>
 
 ---
 
@@ -34,28 +36,43 @@
 
 ---
 
-
-### 👩‍💻 About Me :
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
-I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Kazakhstan**.
+---
 
-- 🔭 I’m working as a **Software Engineer**, contributing to both **frontend** and **backend** development for building web applications.
-- 🌱 Currently exploring **Technical Content Writing** and sharing knowledge with the community.
-- ⚡ In my free time, I **solve coding problems** , read **tech articles**, and keep up with the latest trends in **software development**.
-- 🎯 Passionate about **clean code**, **scalability**, and **best practices** in development.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiWebDesign&layout=compact&theme=vision-friendly-dark&locale=ru&card_width=370)](https://github.com/anuraghazra/github-readme-stats)
+
+### 👩‍💻 About Me :
+
+I am a **Junior Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Kazakhstan**.
+
+- 🔭 I develop **frontend** and **backend** for web applications.  
+- 🌱 I am constantly learning and sharing knowledge with the community.  
+- ⚡ In my free time, I read **technical articles** and keep up with the latest development trends.  
+- 🎯 Passionate about **clean code**, **scalability**, and **best practices** in programming.  
+
+---
 
 ### 🛠 Tech Stack:
-- 💻 **Language**: JavaScript, Python  
-- 🌐 **Frontend**: HTML, CSS, SCSS  
-- 🏗 **Backend**: Laravel  
-- 🛢 **Database**: MySQL, Firebase  
-- ⚙️ **Platforms and tools**: Docker, GitHub Actions  
 
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
+
+---
 
 ### 📫 How to reach me:
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:poekowboy@gmail.com)
 
-🚀 Always open to new **challenges** and **collaborations**!
+🚀 Open to **new challenges** and **collaborations**!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiWebDesign&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
